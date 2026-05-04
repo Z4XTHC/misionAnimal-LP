@@ -143,7 +143,7 @@ export default function SeccionCastraciones() {
                   }}
                   aria-label="Llamar al 3624-902691 para sacar turno de castración"
                 >
-                  3624-902691
+                  Contactanos
                 </Button>
               </Paper>
 
